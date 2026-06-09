@@ -1,4 +1,11 @@
-## Hi there 👋
+ ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
+- :credit_card: My full name is **Yedumi Sithmini Sadanika** 
+- :institute: I'm undergraduate student at **ICET institute**
+- :books: My major is **Software Engineering**
+- :sweat_smile: I'm a newbie in coding . Now I'm focus on learning Web Development.
+- :monocle_face: I'm interested in coding, listning music, and watching film
+- :sunglasses: My quote is ***"No matter how many mistakes you make, don't fall and get up "*** 
 
 <!--
 **sithminiyedumi-creator/sithminiyedumi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
